@@ -1,2 +1,3 @@
 poody/
-!poody/src
+!poody/src/requirements.txt
+!poody/src/
