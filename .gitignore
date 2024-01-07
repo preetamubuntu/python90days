@@ -1,5 +1,3 @@
-poody/bin/
-poody/include/
-poody/lib/
-poody/lib64/
+poody/
 !poody/requirements.txt
+!poody/src/
